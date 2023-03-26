@@ -7,3 +7,5 @@ Python main.py
 
 Backend2:
 Python database.py
+
+Backend1 will run on port 3000 and Backend2 will run on port 5000
