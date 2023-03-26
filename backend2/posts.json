@@ -1,0 +1,79 @@
+[
+{
+    "journal_id": "cf066fbe-7aae-4df9-9f22-3da98b8e34b3",
+    "user_id": "532130b1-e100-48ad-838c-7409d6a42970",
+    "title": "Attending Hackabull",
+    "journal": "OMG it is so fun here.",
+    "sentiment": "joy",
+    "posted_time": "2023-03-26 08:00:00",
+    "latitude": "28.05945",
+    "longitude": "-82.41482"
+},
+{
+    "journal_id": "1f2d314f-d79a-4e39-bc38-720e60a3f63e",
+    "user_id": "532130b1-e110-48ad-838c-7409d6a42970",
+    "title": "Watching horror movie on the bus",
+    "journal": "",
+    "sentiment": "fear",
+    "posted_time": "2023-03-26 12:00:00",
+    "latitude": "28.05874", 
+    "longitude": "-82.41511"
+},
+{
+    journal_id: "a798e15a-8f0a-42fc-93de-5b5c5b5a5a5a",
+    user_id: "532130b1-e100-48ad-838c-7409d6a42970"
+    title: "Stressful Workday"
+    journal: "Work was really tough today. I had a lot of deadlines to meet and didn't get much support from my boss."
+    sentiment: "anger"
+    latitude: "28.05904", 
+    longitude: "-82.41569"
+}
+,
+{
+    journal_id: "cf066fbe-7aae-4df9-9f22-3da98b8e34b3",
+    user_id: "532130b1-e100-48ad-838c-7409d6a42970",
+    title: "Missing My Family",
+    journal: "I've been feeling homesick lately. I miss my family and wish I could be with them right now.",
+    sentiment: "sadness",
+    posted_time: "2023-03-25 14:00:00",
+    latitude: "28.05964", longitude: "-82.41592"
+},
+{
+    journal_id: "24619b8a-fd47-4b61-b22b-9cbe8d30f2a1",
+    user_id: "532130b1-e129-48ad-838c-7409d6a42970",
+    title: "Exciting News!",
+    journal: "I just got accepted into my dream school! I can't wait to start this new chapter of my life.",
+    sentiment: "joy",
+    posted_time: "2023-03-25 16:00:00",
+    latitude: "28.05999", longitude: "-82.41527"
+},
+{
+    journal_id: "5a5f5c5c-2b13-4148-b05b-415a5b5f5b5f",
+    user_id: "532130b1-e100-48ad-838c-7409d6a42970",
+    title: "Disappointing Day",
+    journal: "I had plans to meet up with a friend today, but they cancelled at the last minute. I'm feeling pretty bummed out.",
+    sentiment: "sadness",
+    posted_time: "2023-03-25 18:00:00",
+    latitude: "28.05976", longitude: "-82.41484"
+},
+{
+    journal_id: UUID().uuidString,
+    user_id: "532130b1-e140-48ad-838c-7409d6a42970",
+    title: "",
+    journal: "",
+    sentiment: "joy",
+    posted_time: "2023-03-26 7:20:00",
+    latitude: "", longitude: ""
+},
+{
+    journal_id: UUID().uuidString,
+    user_id: "532130b1-e240-48ad-838c-7409d6a42970",
+    title: "",
+    journal: "",
+    sentiment: "surpise",
+    posted_time: "2023-03-25 21:20:00",
+    latitude: "", longitude: ""
+}
+
+
+]

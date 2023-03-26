@@ -1,0 +1,162 @@
+[
+  {
+    "journal_id": "11B708F8-620E-48CB-8A35-F752CB99E293",
+    "user_id": "6bc85f83-879e-442e-a365-09ff3ed086c4",
+    "title": "I\u2019m crying today",
+    "journal": "Sad",
+    "sentiment": "sadness",
+    "posted_time": "2023-03-26 15:19:21.443919",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "journal_id": "1B9C3A0A-78D6-4FEF-9EB6-1AB2783EECEF",
+    "user_id": "6bc85f83-879e-442e-a365-09ff3ed086c4",
+    "title": "I luvvv Hackabull *heart eyes*",
+    "journal": "No sleep",
+    "sentiment": "sadness",
+    "posted_time": "2023-03-26 15:41:48.257554",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "journal_id": "2D732466-EBDF-4E78-8E6E-1E3B1780EFEC",
+    "user_id": "532130b1-e064-48ad-838c-7409d6a42970",
+    "title": "I\u2019m attending Hackabull",
+    "journal": "I\u2019m building a mobile app, so fun!!",
+    "sentiment": "joy",
+    "posted_time": "2023-03-26 13:05:05.479810",
+    "latitude": "28.05878",
+    "longitude": "-82.41531"
+  },
+  {
+    "journal_id": "41E1C0B3-E791-48DA-88AB-843C8898E89B",
+    "user_id": "532130b1-e064-48ad-838c-7409d6a42970",
+    "title": "I\u2019m attending Hackabull.",
+    "journal": "I\u2019m building a mobile app for students at USF.",
+    "sentiment": "joy",
+    "posted_time": "2023-03-26 12:44:16.314320",
+    "latitude": "28.05878",
+    "longitude": "-82.41531"
+  },
+  {
+    "journal_id": "5C7BA8B3-5E6F-4C3C-B853-C9CEEF929AE2",
+    "user_id": "6bc85f83-879e-442e-a365-09ff3ed086c4",
+    "title": "The server is crashing",
+    "journal": "Anger",
+    "sentiment": "anger",
+    "posted_time": "2023-03-26 15:11:33.282321",
+    "latitude": "28.05999",
+    "longitude": "-82.41527"
+  },
+  {
+    "journal_id": "65DC7A18-88B3-49CF-92DA-09FFEAF17439",
+    "user_id": "6bc85f83-879e-442e-a365-09ff3ed086c4",
+    "title": "A bug landed on my hand",
+    "journal": "Disgust",
+    "sentiment": "disgust",
+    "posted_time": "2023-03-26 15:13:23.273678",
+    "latitude": "28.05999",
+    "longitude": "-82.41527"
+  },
+  {
+    "journal_id": "69263561-3B9A-45DF-8922-528124AA7D88",
+    "user_id": "532130b1-e064-48ad-838c-7409d6a42970",
+    "title": "I\u2019m attending Hackabull. ",
+    "journal": "I\u2019m creating a mobile app for USF students.",
+    "sentiment": "joy",
+    "posted_time": "2023-03-26 12:51:56.183222",
+    "latitude": "28.05878",
+    "longitude": "-82.41531"
+  },
+  {
+    "journal_id": "834DC9A6-198D-498C-8E2E-24113D226EE1",
+    "user_id": "6bc85f83-879e-442e-a365-09ff3ed086c4",
+    "title": "Watch Netflix",
+    "journal": "Hehe",
+    "sentiment": "neutral",
+    "posted_time": "2023-03-26 14:57:37.377757",
+    "latitude": "28.05878",
+    "longitude": "-82.41531"
+  },
+  {
+    "journal_id": "856AF2D3-A71E-4601-BCA0-452B3CFF079A",
+    "user_id": "6bc85f83-879e-442e-a365-09ff3ed086c4",
+    "title": "Hackabull let\u2019s go",
+    "journal": "Today I feel suprised by the amount of hackbull participants!",
+    "sentiment": "surprise",
+    "posted_time": "2023-03-26 15:22:47.154740",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "journal_id": "982AF8AC-8498-4838-87FD-FB6B4D187A93",
+    "user_id": "532130b1-e064-48ad-838c-7409d6a42970",
+    "title": "I\u2019m hungry",
+    "journal": "I want mi quang",
+    "sentiment": "sadness",
+    "posted_time": "2023-03-26 13:03:32.639577",
+    "latitude": "28.05878",
+    "longitude": "-82.41531"
+  },
+  {
+    "journal_id": "A9EC293B-729B-4D33-8153-31F5FFE2DCDE",
+    "user_id": "532130b1-e064-48ad-838c-7409d6a42970",
+    "title": "I\u2019m so tired",
+    "journal": "I haven\u2019t slept yet.",
+    "sentiment": "sadness",
+    "posted_time": "2023-03-26 12:52:07.811740",
+    "latitude": "28.05878",
+    "longitude": "-82.41531"
+  },
+  {
+    "journal_id": "B1410563-9B4A-43B7-BFFB-473CB61C6AE7",
+    "user_id": "532130b1-e064-48ad-838c-7409d6a42970",
+    "title": "Coding",
+    "journal": "Sad",
+    "sentiment": "sadness",
+    "posted_time": "2023-03-26 15:00:56.580182",
+    "latitude": "28.05999",
+    "longitude": "-82.41527"
+  },
+  {
+    "journal_id": "BC84EBEB-4990-4A14-BA22-721520CA149A",
+    "user_id": "6bc85f83-879e-442e-a365-09ff3ed086c4",
+    "title": "Watching horror movie",
+    "journal": "Fear",
+    "sentiment": "fear",
+    "posted_time": "2023-03-26 15:16:53.628563",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "journal_id": "CE91F945-B66D-4ED8-8776-EEB0AF20A0E2",
+    "user_id": "6bc85f83-879e-442e-a365-09ff3ed086c4",
+    "title": "Happy because my friends exist",
+    "journal": "Surprise",
+    "sentiment": "joy",
+    "posted_time": "2023-03-26 15:14:50.644710",
+    "latitude": "28.05999",
+    "longitude": "-82.41527"
+  },
+  {
+    "journal_id": "D2B64142-1278-46C7-9DCF-F3B2DB169571",
+    "user_id": "6bc85f83-879e-442e-a365-09ff3ed086c4",
+    "title": "Great",
+    "journal": "Hackabull is  so fun but tired",
+    "sentiment": "joy",
+    "posted_time": "2023-03-26 15:32:30.492565",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "journal_id": "E5FD1AD4-30CC-4043-84A8-CF69AA46D1CA",
+    "user_id": "6bc85f83-879e-442e-a365-09ff3ed086c4",
+    "title": "The food is not good",
+    "journal": "Disgust",
+    "sentiment": "disgust",
+    "posted_time": "2023-03-26 15:18:17.828245",
+    "latitude": "",
+    "longitude": ""
+  }
+]

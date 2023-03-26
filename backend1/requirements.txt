@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+flask-login
+flask-cors
+psycopg2-binary
+sqlalchemy
+sqlalchemy-cockroachdb

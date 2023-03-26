@@ -1,0 +1,8 @@
+-- CREATE TABLE users (
+--     id UUID PRIMARY KEY,
+--     email TEXT,
+--     name TEXT,
+--     password TEXT,
+--     publicKey TEXT,
+--     privateKey TEXT
+-- );
